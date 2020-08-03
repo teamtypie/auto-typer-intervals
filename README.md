@@ -1,6 +1,6 @@
 # AutoTyper with Random Intervals
 
-I had this AutoTyper commissioned as I was looking for something to auto type a set amount of text at different random intervals. I also wanted to add the functionality of modifying the thresholds of the intervals. This open source project is free under the GNU General Public Licsense version 3 and supports Windows 10 only. 
+I had this AutoTyper commissioned as I was looking for something to auto type a set amount of text at set intervals. I also wanted to add the functionality of adding some aspect of randomness to the intervals with thresholds. This open source project is free under the GNU General Public Licsense version 3 and supports Windows 10 only. 
 
 If you enjoyed this application, please consider buying me a coffee. Thank you for your support!
 
