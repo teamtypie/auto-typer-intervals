@@ -1,6 +1,6 @@
 # AutoTyper with Random Intervals
 
-I had this AutoTyper commissioned as I was looking for something to auto type a set amount of text at set intervals. I also wanted to add the functionality of adding some aspect of randomness to the intervals with thresholds. This open source project is free under the GNU General Public Licsense version 3 and supports Windows 10 only. 
+I had this AutoTyper commissioned as I was looking for something to auto type different text(s) at set intervals. I also wanted to add the functionality of adding some aspect of randomness to the intervals with thresholds. This open source project is free under the GNU General Public Licsense version 3 and supports Windows 10 only. 
 
 If you enjoyed this application, please consider buying me a coffee. Thank you for your support!
 
@@ -21,9 +21,7 @@ Or <a href="https://www.paypal.me/gryzing">PayPal</a>
 If I type "Pizza" in the text box, set the interval delay for 10 seconds, and set the random threshold between 100 - 600 then "Pizza" would be typed at 10.1 seconds then 10.3 seconds then 10.6 seconds (all in random order based on the thresholds that you set). 
 
 # Use Cases
-Can be used in applications such as Discord where you may need to automate typing certain text. 
-
-
+Can be used in applications such as Discord or web forms where you may need to automate typing certain text. 
 
 # Acknowledgments
 I have commissioned this coding project. If you have an idea for a basic coding project and don't know where to start please feel free to reach out to Ketan Patel at Upwork who was able to help me with this project <a href=https://www.upwork.com/fl/~014e67e24594bdd83f>here</a>.
