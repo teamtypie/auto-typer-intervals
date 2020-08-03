@@ -51,7 +51,7 @@ class App(tk.Frame):
         
         #Heading Labels         
         tk.Label(self,text='Text',background="dodger blue",font=("Verdana",15)).grid(row=0,column=0,padx=5)
-        tk.Label(self,text='Interval Delay \nSeconds(10-3600)',background=self.color,font=("Verdana",15)).grid(row=0,column=1,padx=7)
+        tk.Label(self,text='Interval Delay \nSeconds(10-86400)',background=self.color,font=("Verdana",15)).grid(row=0,column=1,padx=7)
         tk.Label(self,text='Random \n Threshhold-MS(100-10000)\nStart        End',background=self.color,font=("Verdana",15)).grid(row=0,column=2,columnspan=3,sticky="ew")
                         
         #function to generate entry fields
@@ -126,7 +126,7 @@ class App(tk.Frame):
                             break
                             
                         elif j==0:
-                            if int(val) < 10 or int(val)>3600:
+                            if int(val) < 10 or int(val)>86400:
                                 messagebox.showinfo("Value Error",f'{entrybox[j+1]} Values must between 10 to 3600 ')
                                 self.entries[i][j+1].focus_set()
                                 Empty= True
@@ -410,7 +410,7 @@ def main():
 
 if __name__ == "__main__":
     main()
- 
+    
 """
  AutoTyper with Random Intervals
     Copyright (C) 2020  Nick Greising
