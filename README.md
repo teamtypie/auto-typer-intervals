@@ -4,7 +4,7 @@ I had this AutoTyper commissioned as I was looking for something to auto type a 
 
 If you enjoyed this application, please consider buying me a coffee. Thank you for your support!
 
-Or <a href="https://www.paypal.me/gryzing" target="_blank">PayPal</a>
+<a href="#" onClick="window.open('https://www.paypal.me/gryzing', '_blank')">PayPal</a>
 
 
 # Instructions
