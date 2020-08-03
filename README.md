@@ -4,7 +4,7 @@ I had this AutoTyper commissioned as I was looking for something to auto type a 
 
 If you enjoyed this application, please consider buying me a coffee. Thank you for your support!
 
-<a href="https://www.buymeacoffee.com/nickgreising" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>" alt="Buy me a coffee">Buy me a coffee</a>
+<a href="https://www.buymeacoffee.com/nickgreising" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 50px !important;" ></a>
 
 Or <a href="https://www.paypal.me/gryzing">PayPal</a>
 
